@@ -1,0 +1,30 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
+.heights{
+}
+.header{
+    padding: 1.1rem;
+    width: 100%;
+    background: white;
+    min-height: 100vh;
+
+}
+.navbars{
+}
+.logo{
+    text-align: center;
+    margin-bottom: 1.1rem;
+}
+.navbars ul {
+    line-height: 4;
+
+}
+.verticle-navbar{
+    
+    position: fixed;
+}
